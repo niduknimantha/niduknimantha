@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px" height="60px">,
   <br><br> I'm Niduk Nimantha.</h1>
-<h3 align="center">I'm a passionate Web Developer from Sri Lanka. 💻</h3>
+<h3 align="center">I'm a passionate Developer and Content Creator from Sri Lanka. 💻</h3>
 
 
 ## 🙋‍♂️ About Me

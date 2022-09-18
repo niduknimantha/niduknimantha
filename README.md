@@ -30,22 +30,34 @@ You can click the Preview link to take a look at your changes.
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>    
 </p>
 
-## 🖼 📷 Graphic Designing Tools:
+## 🖋 Development IDE:
+
+<p align="left">
+    <a href="https://www.code.visualstudio.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>       </a>
+    
+</p>
+
+## 🖋 Graphic Designing Tool:
 
 <p align="left">
     <a href="https://www.adobe.com" target="_blank"> <img src="https://img.icons8.com/color-glass/48/undefined/adobe-photoshop.png"/>       </a>
-    <a href="https://www.microsoft.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/undefined/microsoft-powerpoint-2019.png"/></a>
-    <a href="https://www.gimp.org" target="_blank"> <img src="https://img.icons8.com/color/48/undefined/gimp.png"/></a>
+    
 </p>
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 
+## 🖋 Video Editing Tool:
+
+<p align="left">
+    <a href="https://www.wondershare.filmora.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/filmora.png"/>       </a>
+    
+</p>
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href = "#"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/48/000000/tiktok--v1.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## ❤ Views and Followers
